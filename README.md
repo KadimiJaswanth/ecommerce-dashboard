@@ -84,8 +84,8 @@ This helps:
 
 ## 🔗 Live Demo
 
-> [🌐 Click here to view the live app](https://your-streamlit-link-here.streamlit.app)  
-> *(Replace with your deployed link)*
+> [🌐 Click here to view the live app]([https://your-streamlit-link-here.streamlit.app](https://ecommerce-dashboard-xnfh2umumynaayxn4tbyxx.streamlit.app/))  
+
 
 ---
 
@@ -113,10 +113,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 💼 About Me
 
-**Kadimi Jaswanth**  
-B.Tech | Data Science & Machine Learning Enthusiast  
-📫 [Connect on LinkedIn](https://linkedin.com/in/your-profile) *(Replace with your link)*
 
 ---

@@ -10,11 +10,9 @@
 
 ---
 
-## 🔗 Live Project Links
+## 🌐 Live Website
 
-🌐 **Live Demo**: [Click here to try it out](https://ecommerce-dashboard-xnfh2umumynaayxn4tbyxx.streamlit.app/)  
-📁 **GitHub Repo**: [KadimiJaswanth/ecommerce-dashboard](https://github.com/KadimiJaswanth/ecommerce-dashboard)  
-👨‍💼 **Developer Profile**: [LinkedIn – Kadimi Jaswanth](https://www.linkedin.com/in/kadimi-jaswanth-347952289/)
+**Streamlit App**: [https://ecommerce-dashboard-xnfh2umumynaayxn4tbyxx.streamlit.app/](https://ecommerce-dashboard-xnfh2umumynaayxn4tbyxx.streamlit.app/)
 
 ---
 
@@ -121,22 +119,9 @@ You are free to use, modify, and share with attribution. 🤝
 
 ---
 
-## 💼 About Me
-
-**Kadimi Jaswanth**  
-🎓 B.Tech Student | 🧠 Data Science & ML Enthusiast  
-🔗 [LinkedIn](https://www.linkedin.com/in/kadimi-jaswanth-347952289/)  
-📦 [GitHub](https://github.com/KadimiJaswanth)
-
----
-
 ## ⭐ Support
 
 If you liked this project:
 
 🌟 **Star the repo**  
-🤝 **Connect with me on LinkedIn**  
-📢 **Share with others in the Data Science community**
-
----
-
+📢 **Share it with others in the community**

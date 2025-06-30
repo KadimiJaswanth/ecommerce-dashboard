@@ -1,4 +1,3 @@
-
 # 🛍️ E-Commerce Analytics Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
@@ -36,24 +35,22 @@
 
 ## 📁 Folder Structure
 
+```
 ecommerce-dashboard/
-├── app/ # Streamlit frontend
-│ └── streamlit_app.py
-├── data/ # Datasets (raw, cleaned, features)
-│ ├── ecommerce_data.csv
-│ ├── cleaned_data.csv
-│ ├── customer_features.csv
-│ ├── rfm_segments.csv
-│ └── segment_summary.csv
-├── models/ # Trained ML model
-│ └── churn_predictor.pkl
-├── notebooks/ # Jupyter Notebooks for analysis & model building
-├── requirements.txt # Dependencies
-└── README.md # You’re reading this!
-
-yaml
-Copy
-Edit
+├── app/                   # Streamlit frontend
+│   └── streamlit_app.py
+├── data/                  # Datasets (raw, cleaned, features)
+│   ├── ecommerce_data.csv
+│   ├── cleaned_data.csv
+│   ├── customer_features.csv
+│   ├── rfm_segments.csv
+│   └── segment_summary.csv
+├── models/                # Trained ML model
+│   └── churn_predictor.pkl
+├── notebooks/             # Jupyter Notebooks for analysis & model building
+├── requirements.txt       # Dependencies
+└── README.md              # You’re reading this!
+```
 
 ---
 
@@ -88,7 +85,7 @@ This helps:
 ## 🔗 Live Demo
 
 > [🌐 Click here to view the live app](https://your-streamlit-link-here.streamlit.app)  
-(Replace above link after deploying)
+> *(Replace with your deployed link)*
 
 ---
 
@@ -99,32 +96,27 @@ git clone https://github.com/yourusername/ecommerce-dashboard.git
 cd ecommerce-dashboard
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
-📜 License
-This project is licensed under the MIT License.
-
-🙌 Acknowledgements
-E-Commerce dataset inspired by real-world scenarios
-
-Special thanks to Streamlit and the Python open-source community
-
-💼 About Me
-Kadimi Jaswanth
-B.Tech | Data Science & Machine Learning Enthusiast
-📫 Connect on LinkedIn (Replace with real link)
-
-yaml
-Copy
-Edit
+```
 
 ---
 
-## ✅ Next Steps:
+## 📜 License
 
-- Replace `yourusername` and `your-streamlit-link-here` with actual values.
-- Save this as `README.md` in your root project folder.
-- Commit and push to GitHub:
+This project is licensed under the **MIT License**.
 
-```bash
-git add README.md
-git commit -m "📝 Add detailed README"
-git push
+---
+
+## 🙌 Acknowledgements
+
+- E-Commerce dataset inspired by real-world scenarios
+- Special thanks to Streamlit and the Python open-source community
+
+---
+
+## 💼 About Me
+
+**Kadimi Jaswanth**  
+B.Tech | Data Science & Machine Learning Enthusiast  
+📫 [Connect on LinkedIn](https://linkedin.com/in/your-profile) *(Replace with your link)*
+
+---

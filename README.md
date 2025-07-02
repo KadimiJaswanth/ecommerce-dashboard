@@ -27,6 +27,18 @@
 
 ---
 
+## 📷 Screenshots
+
+<p align="center">
+  <img src="https://i.postimg.cc/TyzVjftj/Screenshot-2025-07-02-211946.png" alt="Dashboard Overview" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://i.postimg.cc/KktnJwW6/Screenshot-2025-07-02-211958.png" alt="RFM Segmentation View" width="700"/>
+</p>
+
+---
+
 ## 🧠 Machine Learning
 
 The model is trained using a **Random Forest Classifier** based on:
@@ -43,18 +55,18 @@ The model is trained using a **Random Forest Classifier** based on:
 
 Customers are segmented based on their purchasing behavior:
 
-| Segment       | Description                            |
-|---------------|----------------------------------------|
-| Champions     | Recent, frequent, and high spenders    |
-| Loyal         | Frequent purchasers                    |
-| At Risk       | Long time since last purchase          |
-| Need Attention| Spent once or twice only               |
-| Others        | Occasional or inactive buyers          |
+| Segment        | Description                          |
+|----------------|--------------------------------------|
+| Champions      | Recent, frequent, and high spenders  |
+| Loyal          | Frequent purchasers                  |
+| At Risk        | Long time since last purchase        |
+| Need Attention | Spent once or twice only             |
+| Others         | Occasional or inactive buyers        |
 
 🔍 Helps in:
-- Smart Marketing
-- Retargeting Campaigns
-- Customer Retention
+- Smart Marketing  
+- Retargeting Campaigns  
+- Customer Retention  
 
 ---
 
@@ -63,7 +75,7 @@ Customers are segmented based on their purchasing behavior:
 ```
 ecommerce-dashboard/
 ├── app/
-│   └── streamlit_app.py          # Streamlit Dashboard UI
+│   └── streamlit_app.py              # Streamlit Dashboard UI
 ├── data/
 │   ├── ecommerce_data.csv
 │   ├── cleaned_data.csv
@@ -71,11 +83,11 @@ ecommerce-dashboard/
 │   ├── rfm_segments.csv
 │   └── segment_summary.csv
 ├── models/
-│   └── churn_predictor.pkl       # Trained ML model
+│   └── churn_predictor.pkl           # Trained ML model
 ├── notebooks/
 │   └── analysis_and_modeling.ipynb  # Data preprocessing & ML
-├── requirements.txt              # Python dependencies
-└── README.md                     # Project description
+├── requirements.txt                  # Python dependencies
+└── README.md                         # Project description
 ```
 
 ---
@@ -112,9 +124,8 @@ You are free to use, modify, and share with attribution. 🤝
 
 ## 🙌 Credits
 
-- 📊 Real-world inspired dataset
-- 💻 Built with:  
-  Python, Pandas, Scikit-learn, Matplotlib, Streamlit
+- 📊 Real-world inspired dataset  
+- 💻 Built with: Python, Pandas, Scikit-learn, Matplotlib, Streamlit  
 - 🙋‍♂️ Developed by: **Kadimi Jaswanth**
 
 ---

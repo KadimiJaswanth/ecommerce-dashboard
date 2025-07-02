@@ -30,11 +30,11 @@
 ## 📷 Screenshots
 
 <p align="center">
-  <img src="https://i.postimg.cc/TyzVjftj/Screenshot-2025-07-02-211946.png](https://drive.google.com/file/d/1LkgjaQTcgRcQwC92UuFtgMgbgD51s6HT/view?usp=drive_link" alt="Dashboard Overview" width="700"/>
+  <img src="https://drive.google.com/uc?export=view&id=1LkgjaQTcgRcQwC92UuFtgMgbgD51s6HT" alt="Dashboard Overview" width="700"/>
 </p>
 
 <p align="center">
-  <img src="[https://i.postimg.cc/KktnJwW6/Screenshot-2025-07-02-211958.png](https://drive.google.com/file/d/1uBdaUmgrgCg1mBp4VFo5Di33ydP4E43x/view?usp=sharing)" alt="RFM Segmentation View" width="700"/>
+  <img src="https://drive.google.com/uc?export=view&id=1uBdaUmgrgCg1mBp4VFo5Di33ydP4E43x" alt="RFM Segmentation View" width="700"/>
 </p>
 
 ---
